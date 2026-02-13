@@ -9,7 +9,7 @@ I build high-performance digital ecosystems and AI solutions. Currently scaling 
 **End-to-end development of a high-tech ecosystem for an engineering startup.**
 *   **Tech:** React, Tailwind CSS, Framer Motion, RAG-powered AI.
 *   **The Goal:** Eliminating "Legacy Bloat" for small businesses.
-*   🔗 **[Live Demo](https://avic.netlify.app)** | 📺 **[Watch on YouTube](ТВОЯ_ССЫЛКА_НА_ВИДЕО)**
+*   🔗 **[Live Demo](https://avic.netlify.app)** | 📺 **[Watch on YouTube](https://www.youtube.com/@avi.agency)**
 
 ---
 
@@ -21,9 +21,12 @@ I build high-performance digital ecosystems and AI solutions. Currently scaling 
 ---
 
 ## 📄 Contacts & Resume
-*   💼 **[Download My Full Resume (PDF)](ССЫЛКА_НА_ТВОЙ_ГУГЛ_ДРАЙВ)**
-*   📨 **Email:** davydkaulko@gmail.com
-*   📱 **Telegram:** [@Plage_Dok](https://t.me)
+*  💼 **[Download My Full Resume (PDF)](ССЫЛКА_НА_ТВОЙ_ГУГЛ_ДРАЙВ)**
+*  
+  Primary email: davydkaulko@gmail.com Backup email: davidkaulko@gmail.com
+  Phone (US): +1 (754) 703‑1537 (main) Phone (UA): +380 (99) 085‑96‑98 (secondary)
+  Telegram: @Plage_Dok t.me/Plage_Dok WhatsApp: https://whatsapp.com/dl/
+  Facebook: https://www.facebook.com/share/1BQ8aN4sup/
 
 > "We build our operations on common sense. Instead of rigid bureaucracy, we focus on shared goals." — AVI Manifesto
 
