@@ -1,6 +1,6 @@
 # Hi, I'm Davyd 👋 
 
-### Junior Software Architect | AI & Automation Specialist
+### Junior Software Developer | AI & Automation Specialist
 I build high-performance digital ecosystems and AI solutions. Currently scaling **AVI Collective** on a budget setup, proving that engineering mindset matters more than hardware.
 
 ---
