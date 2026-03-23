@@ -24,7 +24,6 @@ I build high-performance digital ecosystems and AI solutions. Currently scaling 
 *  💼 **[Download My Full Resume (PDF)](https://docs.google.com/document/d/1Xv17d0w2R1esbywdbPKmL2Ar6vcQDuc16lNJg8DRIlk/edit?usp=sharing)**
 *  https://linktr.ee/davydkaulko
   Primary email: davydkaulko@gmail.com Backup email: davidkaulko@gmail.com
-  Phone (US): +1 (754) 703‑1537 (main) Phone (UA): +380 (99) 085‑96‑98 (secondary)
   Telegram: @Plage_Dok t.me/Plage_Dok WhatsApp: https://whatsapp.com/dl/
   Facebook: https://www.facebook.com/share/1BQ8aN4sup/
 
